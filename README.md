@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Clone and use npm install to install dependency
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Keep in mind, you have to create your .env file to add supabase url and public key. Shown in the [Youtube Video](https://youtu.be/HMXY4FfyGD4)
 
 ## Available Scripts
 
